@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arachana sah</h1>
 <h3 align="center">I am passionate full stack developer.</h3>
 
-<img align="right" alt="coding" width="400" scr="animation_image.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saharachana939&label=Profile%20views&color=0e75b6&style=flat" alt="saharachana939" /> </p>
 
 - 🔭 I’m currently working on [portfolio_website](https://github.com/saharachana939/portfolio_website)
